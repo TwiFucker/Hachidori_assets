@@ -1,0 +1,138 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Hachidori</string>
+    <string name="author">by Team TwiFucker</string>
+    <string name="loading">加载中…</string>
+
+    <string name="version">%1$s(%2$d)</string>
+    <string name="version_update">%1$s(%2$d) [新版本 %3$s(%4$d)]</string>
+
+    <string name="dialog_module_update">更新模块</string>
+
+    <string name="dialog_yes">是</string>
+    <string name="dialog_no">否</string>
+    <string name="dialog_save">保存</string>
+    <string name="dialog_reset">重置</string>
+    <string name="dialog_dismiss">关闭</string>
+    <string name="dialog_value">值</string>
+
+    <!-- Misc. -->
+
+    <string name="pref_translators">Translators</string>
+    <string name="translators">JasonKhew96</string>
+
+    <string name="pref_telegram_title">电报</string>
+
+    <string name="pref_reset_hook_title">重置钩子</string>
+
+    <string name="pref_reset_config_title">重置设置</string>
+
+    <string name="dialog_reset_subtitle">您确定要重置吗？重置后应用将重启。</string>
+
+    <string name="downloading">下载中…</string>
+    <string name="download_failed">下载失败</string>
+    <string name="download_link_copied">下载链接已复制</string>
+    <string name="download_media">媒体 %1$d</string>
+    <string name="download_completed">下载完成</string>
+    <string name="download_all">下载全部</string>
+    <string name="download">下载</string>
+
+    <string name="promoted_tweet_deleted">已删除 %1d 个时间线推广</string>
+
+    <!-- Sections -->
+
+    <string name="section_version">版本</string>
+    <string name="section_general">通用</string>
+    <string name="section_experimental">试验</string>
+    <string name="section_misc">其他</string>
+
+    <!-- Version -->
+    <string name="pref_host_version">宿主版本</string>
+    <string name="pref_module_version">模块版本</string>
+    <string name="pref_framework_name">框架名称</string>
+    <string name="pref_framework_version">框架版本</string>
+    <string name="pref_framework_privilege">框架权限</string>
+
+    <!-- Privilege -->
+    <string name="privilege_root">Root</string>
+    <string name="privilege_container">Container</string>
+    <string name="privilege_app">App</string>
+    <string name="privilege_embedded">Embedded</string>
+    <string name="privilege_unknown">Unknown</string>
+
+    <!-- Features -->
+
+    <string name="feature_remove_misc_title">移除其他</string>
+    <string name="feature_remove_misc_desc">移除视频轮播、相关推文/发现更多以及推荐关注的建议</string>
+
+    <string name="feature_remove_promoted_timeline_tweet_title">移除时间线推广</string>
+
+    <string name="feature_remove_promoted_trend_title">移除趋势推广</string>
+
+    <string name="feature_remove_promoted_user_title">移除用户推广</string>
+
+    <string name="feature_remove_recommended_users_title">移除推荐用户</string>
+
+    <string name="feature_remove_sensitive_media_warning_title">移除敏感媒体警告</string>
+
+    <string name="feature_remove_pinned_tweets_title">移除已置顶贴纸</string>
+
+    <string name="feature_remove_trends_title">移除趋势</string>
+
+    <string name="feature_remove_threads_title">移除主题帖</string>
+
+    <string name="feature_remove_video_carousel_title">移除视频轮播</string>
+
+    <string name="feature_remove_events_title">移除事件</string>
+
+    <string name="feature_remove_related_tweet_title">移除相关推文</string>
+
+    <string name="feature_remove_suggest_who_to_follow_title">移除推荐关注</string>
+
+    <string name="feature_remove_suggest_who_to_subscribe_title">移除创作者推荐</string>
+
+    <string name="feature_remove_community_to_join_title">移除新社群推荐</string>
+
+    <string name="feature_skip_short_link_redirect_title">跳过短链接重定向</string>
+
+    <string name="feature_unpin_ssl_title">取消证书锁定</string>
+
+    <string name="feature_clean_url_title">净化链接</string>
+
+    <string name="feature_download_video_title">启用视频下载</string>
+
+    <string name="feature_custom_media_download_title">启用自定义媒体下载</string>
+    <string name="feature_custom_media_download_desc">分享按钮里添加下载</string>
+
+    <string name="pref_custom_media_download_directory_title">自定义媒体下载位置</string>
+
+
+    <string name="feature_remove_for_you_tab_title">移除为你推荐</string>
+
+    <string name="feature_remove_google_ads_title">移除谷歌广告</string>
+
+    <string name="feature_remove_navbar_items_title">净化导航栏</string>
+
+    <string name="pref_navbar_items_title">导航栏项目</string>
+    <string name="pref_navbar_items_desc">选择要移除的导航栏项目</string>
+
+    <string name="feature_remove_drawer_items_title">净化抽屉</string>
+
+    <string name="pref_drawer_items_title">抽屉项目</string>
+    <string name="pref_drawer_items_desc">选择要移除的抽屉项目</string>
+
+    <string name="feature_feature_switches_title">内部功能开关</string>
+
+    <string name="pref_feature_switches_title">内部功能开关项目</string>
+
+    <string name="feature_change_color_title">更改颜色</string>
+
+    <string name="pref_change_color_title">颜色选择器</string>
+
+    <string name="feature_disable_auto_scroll_title">禁止自动滚动</string>
+    <string name="feature_disable_auto_scroll_desc">禁止时间线刷新后自动回到最顶</string>
+
+    <string name="feature_force_high_quality_video_playing_title">强制高质量适配播放</string>
+
+    <string name="feature_disable_banner_view">禁止显示横幅</string>
+</resources>
