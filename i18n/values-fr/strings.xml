@@ -137,7 +137,7 @@
     <string name="feature_disable_auto_scroll_title">Désactiver l'auto défilement du flux</string>
     <string name="feature_disable_auto_scroll_desc">Désactiver l'auto défilement vers le haut après le rafraîchissement du flux</string>
 
-    <string name="feature_force_high_quality_video_playing_title">Forcer la haute qualité des vidéos</string>
+    <string name="feature_force_high_quality_video_playing_title">Forcer les vidéos en haute qualité</string>
 
     <string name="feature_disable_banner_view">Désactiver l'affichage de la bannière</string>
 </resources>
