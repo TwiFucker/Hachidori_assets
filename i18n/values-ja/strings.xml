@@ -103,7 +103,7 @@
 
     <string name="feature_download_video_title">動画のダウンロードを有効化</string>
 
-    <string name="feature_custom_media_download_title">メディアダウンロード先のカスタムを有効化</string>
+    <string name="feature_custom_media_download_title">カスタムメディアダウンロードを有効化</string>
     <string name="feature_custom_media_download_desc">共有ボタンにダウンロードを追加します</string>
 
     <string name="pref_custom_media_download_directory_title">メディア保存先ディレクトリ</string>
