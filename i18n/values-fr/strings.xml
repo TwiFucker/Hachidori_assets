@@ -126,9 +126,9 @@
     <string name="pref_drawer_items_title">Éléments du tirroir</string>
     <string name="pref_drawer_items_desc">Sélectionner les éléments du tirroir à supprimer</string>
 
-    <string name="feature_feature_switches_title">Commutateur à fonctionnalités</string>
+    <string name="feature_feature_switches_title">Commutateurs à fonctionnalités</string>
 
-    <string name="pref_feature_switches_title">Fonction commutateurs d'éléments</string>
+    <string name="pref_feature_switches_title">Fonction à commutateurs d'éléments</string>
 
     <string name="feature_change_color_title">Changer les couleures</string>
 
