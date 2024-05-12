@@ -1,0 +1,143 @@
+<resources>
+    <!-- STUB! DO NOT TRANSLATE -->
+
+    <!--suppress CheckTagEmptyBody -->
+    <string name="stub" translatable="false"></string>
+
+    <!-- General -->
+
+    <string name="app_name">Hachidori</string>
+    <string name="author">Par l'équipe TwiFucker</string>
+    <string name="loading">chargement…</string>
+
+    <string name="version">%1$s(%2$d)</string>
+    <string name="version_update">%1$s(%2$d) [Nouvelle version disponible %3$s(%4$d)]</string>
+
+    <string name="dialog_module_update">Mise à jour du module</string>
+
+    <string name="dialog_yes">Oui</string>
+    <string name="dialog_no">Non</string>
+    <string name="dialog_save">Enregistrer</string>
+    <string name="dialog_reset">Réinitialiser</string>
+    <string name="dialog_dismiss">Rejeter</string>
+    <string name="dialog_value">Valeur</string>
+
+    <!-- Misc. -->
+
+    <string name="pref_translators">Traducteurs</string>
+    <string name="translators">Aidez-nous à traduire!</string>
+
+    <string name="pref_telegram_title">Telegram</string>
+
+    <string name="pref_reset_hook_title">Réinitialiser les crochets</string>
+
+    <string name="pref_reset_config_title">Réinitialiser la configuration</string>
+
+    <string name="dialog_reset_subtitle">Êtes-vous sûr de vouloir réinitialiser ? L'application redémarrera après avoir été réinitialisée.</string>
+
+    <string name="downloading">Téléchargement…</string>
+    <string name="download_failed">Échec du téléchargement</string>
+    <string name="download_link_copied">Lien de téléchargement copié</string>
+    <string name="download_media">Média %1$d</string>
+    <string name="download_completed">Téléchargement terminé</string>
+    <string name="download_all">Télécharger tout</string>
+    <string name="download">Téléchargement</string>
+
+    <string name="promoted_tweet_deleted">Suppression de %1d tweets promotionnels</string>
+
+    <!-- Sections -->
+
+    <string name="section_version">Version</string>
+    <string name="section_general">Général</string>
+    <string name="section_experimental">Experimental</string>
+    <string name="section_misc">Divers</string>
+
+    <!-- Version -->
+    <string name="pref_host_version">Version de l'hébergeur</string>
+    <string name="pref_module_version">Version du module</string>
+    <string name="pref_framework_name">Nom du sous système d'injection</string>
+    <string name="pref_framework_version">Version du sous système d'injection</string>
+    <string name="pref_framework_privilege">Privilégèe du sous système d'injection</string>
+
+    <!-- Privilege -->
+    <string name="privilege_root">Raçine</string>
+    <string name="privilege_container">Conteneur</string>
+    <string name="privilege_app">Application</string>
+    <string name="privilege_embedded">Intégré</string>
+    <string name="privilege_unknown">Inconnu</string>
+
+    <!-- Features -->
+
+    <string name="feature_remove_misc_title">Supprimer les désagréments divers</string>
+    <string name="feature_remove_misc_desc">Supprimer le carrousel des vidéos, le tweet connexe / découvrir plus et les suggestions de personnes à suivre</string>
+
+    <string name="feature_remove_promoted_timeline_tweet_title">Supprimer les tweets promotionnels du fil</string>
+
+    <string name="feature_remove_promoted_trend_title">Supprimer les tendances promotionnelles</string>
+
+    <string name="feature_remove_promoted_user_title">Supprimer les utilisateurs promotionnels</string>
+
+    <string name="feature_remove_recommended_users_title">Supprimer les utilisateurs recommandés</string>
+
+    <string name="feature_remove_sensitive_media_warning_title">Supprimer l'avertissement des médias sensibles</string>
+
+    <string name="feature_remove_pinned_tweets_title">Supprimer les tweets épinglés</string>
+
+    <string name="feature_remove_trends_title">Supprimer les tendances</string>
+
+    <string name="feature_remove_threads_title">Supprimer les fils</string>
+
+    <string name="feature_remove_video_carousel_title">Supprimer le carrousel des vidéos</string>
+
+    <string name="feature_remove_events_title">Supprimer les événements</string>
+
+    <string name="feature_remove_related_tweet_title">Supprimer les tweets associés</string>
+
+    <string name="feature_remove_suggest_who_to_follow_title">Supprimer Qui suivre</string>
+
+    <string name="feature_remove_suggest_who_to_subscribe_title">Supprimer Les créateurs pour vous</string>
+
+    <string name="feature_remove_community_to_join_title">Supprimer Découvrez les nouvelles communeautés</string>
+
+    <string name="feature_skip_short_link_redirect_title">Sauter la redirection des liens raccourcis</string>
+
+    <string name="feature_unpin_ssl_title">Détacher le SSL</string>
+
+    <string name="feature_clean_url_title">Nettoyer les URL</string>
+
+    <string name="feature_download_video_title">Activer le téléchargement des vidéos</string>
+
+    <string name="feature_custom_media_download_title">Activer le téléchargement personnalisé des médias</string>
+    <string name="feature_custom_media_download_desc">Ajouter télécharger dans le boutton de partage</string>
+
+    <string name="pref_custom_media_download_directory_title">Emplacement de téléchargement de média personnalisé</string>
+
+    <string name="feature_remove_for_you_tab_title">Supprimer l'onglet Pour Vous</string>
+
+    <string name="feature_remove_google_ads_title">Supprimer les pubs Google</string>
+
+    <string name="feature_remove_navbar_items_title">Supprimer le commutateur des éléments de la barre de naviguation</string>
+
+    <string name="pref_navbar_items_title">Éléments de la barre de naviguation</string>
+    <string name="pref_navbar_items_desc">Sélectionner les éléments de la barre de naviguation à supprimer</string>
+
+    <string name="feature_remove_drawer_items_title">Supprimer le commutateur des éléments du tirroir</string>
+
+    <string name="pref_drawer_items_title">Éléments du tirroir</string>
+    <string name="pref_drawer_items_desc">Sélectionner les éléments du tirroir à supprimer</string>
+
+    <string name="feature_feature_switches_title">Commutateur à fonctionnalités</string>
+
+    <string name="pref_feature_switches_title">Fonction commutateurs d'éléments</string>
+
+    <string name="feature_change_color_title">Changer les couleures</string>
+
+    <string name="pref_change_color_title">Sélecteur de couleurs</string>
+
+    <string name="feature_disable_auto_scroll_title">Désactiver l'auto défilement du flux</string>
+    <string name="feature_disable_auto_scroll_desc">Désactiver l'auto défilement vers le haut après le rafraîchissement du flux</string>
+
+    <string name="feature_force_high_quality_video_playing_title">Forcer la haute qualité des vidéos</string>
+
+    <string name="feature_disable_banner_view">Désactiver l'affichage de la bannière</string>
+</resources>
