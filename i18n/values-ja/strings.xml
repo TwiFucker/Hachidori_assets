@@ -21,7 +21,7 @@
     <!-- Misc. -->
 
     <string name="pref_translators">翻訳者</string>
-    <string name="translators">MES-mitutti</string>
+    <string name="translators">AndroPlus-org MES-mitutti</string>
 
     <string name="pref_telegram_title">Telegram</string>
 
@@ -135,5 +135,5 @@
 
     <string name="feature_force_high_quality_video_playing_title">高画質ビデオの強制</string>
 
-    <string name="feature_disable_banner_view">ヘッダー広告の表示を無効化</string>
+    <string name="feature_disable_banner_view">バナービューの表示を無効化</string>
 </resources>
