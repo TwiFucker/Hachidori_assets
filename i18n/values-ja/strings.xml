@@ -114,7 +114,7 @@
 
     <string name="feature_remove_navbar_items_title">ナビバー項目の削除を有効化</string>
 
-    <string name="pref_navbar_items_title">ナビバー項目/string>
+    <string name="pref_navbar_items_title">ナビバー項目</string>
     <string name="pref_navbar_items_desc">削除するナビバー項目を選択してください</string>
 
     <string name="feature_remove_drawer_items_title">ドロワー項目の削除を有効化</string>

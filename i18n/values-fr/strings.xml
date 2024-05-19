@@ -7,7 +7,7 @@
     <!-- General -->
 
     <string name="app_name">Hachidori</string>
-    <string name="author">Par l'équipe TwiFucker</string>
+    <string name="author">Par l\'équipe TwiFucker</string>
     <string name="loading">chargement…</string>
 
     <string name="version">%1$s(%2$d)</string>
@@ -33,7 +33,7 @@
 
     <string name="pref_reset_config_title">Réinitialiser la configuration</string>
 
-    <string name="dialog_reset_subtitle">Êtes-vous sûr de vouloir réinitialiser ? L'application redémarrera après avoir été réinitialisée.</string>
+    <string name="dialog_reset_subtitle">Êtes-vous sûr de vouloir réinitialiser ? L\'application redémarrera après avoir été réinitialisée.</string>
 
     <string name="downloading">Téléchargement…</string>
     <string name="download_failed">Échec du téléchargement</string>
@@ -53,11 +53,11 @@
     <string name="section_misc">Divers</string>
 
     <!-- Version -->
-    <string name="pref_host_version">Version de l'hébergeur</string>
+    <string name="pref_host_version">Version de l\'hébergeur</string>
     <string name="pref_module_version">Version du module</string>
-    <string name="pref_framework_name">Nom du sous système d'injection</string>
-    <string name="pref_framework_version">Version du sous système d'injection</string>
-    <string name="pref_framework_privilege">Privilégèe du sous système d'injection</string>
+    <string name="pref_framework_name">Nom du sous système d\'injection</string>
+    <string name="pref_framework_version">Version du sous système d\'injection</string>
+    <string name="pref_framework_privilege">Privilégèe du sous système d\'injection</string>
 
     <!-- Privilege -->
     <string name="privilege_root">Raçine</string>
@@ -79,7 +79,7 @@
 
     <string name="feature_remove_recommended_users_title">Supprimer les utilisateurs recommandés</string>
 
-    <string name="feature_remove_sensitive_media_warning_title">Supprimer l'avertissement des médias sensibles</string>
+    <string name="feature_remove_sensitive_media_warning_title">Supprimer l\'avertissement des médias sensibles</string>
 
     <string name="feature_remove_pinned_tweets_title">Supprimer les tweets épinglés</string>
 
@@ -112,7 +112,7 @@
 
     <string name="pref_custom_media_download_directory_title">Emplacement de téléchargement de média personnalisé</string>
 
-    <string name="feature_remove_for_you_tab_title">Supprimer l'onglet Pour Vous</string>
+    <string name="feature_remove_for_you_tab_title">Supprimer l\'onglet Pour Vous</string>
 
     <string name="feature_remove_google_ads_title">Supprimer les pubs Google</string>
 
@@ -128,16 +128,16 @@
 
     <string name="feature_feature_switches_title">Commutateurs à fonctionnalités</string>
 
-    <string name="pref_feature_switches_title">Fonction à commutateurs d'éléments</string>
+    <string name="pref_feature_switches_title">Fonction à commutateurs d\'éléments</string>
 
     <string name="feature_change_color_title">Changer les couleures</string>
 
     <string name="pref_change_color_title">Sélecteur de couleurs</string>
 
-    <string name="feature_disable_auto_scroll_title">Désactiver l'auto défilement du flux</string>
-    <string name="feature_disable_auto_scroll_desc">Désactiver l'auto défilement vers le haut après le rafraîchissement du flux</string>
+    <string name="feature_disable_auto_scroll_title">Désactiver l\'auto défilement du flux</string>
+    <string name="feature_disable_auto_scroll_desc">Désactiver l\'auto défilement vers le haut après le rafraîchissement du flux</string>
 
     <string name="feature_force_high_quality_video_playing_title">Forcer les vidéos en haute qualité</string>
 
-    <string name="feature_disable_banner_view">Désactiver l'affichage de la bannière</string>
+    <string name="feature_disable_banner_view">Désactiver l\'affichage de la bannière</string>
 </resources>
