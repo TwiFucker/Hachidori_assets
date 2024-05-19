@@ -1,0 +1,139 @@
+<resources>
+
+    <!-- General -->
+
+    <string name="app_name">Hachidori</string>
+    <string name="author">by Team TwiFucker</string>
+    <string name="loading">読み込み中…</string>
+
+    <string name="version">%1$s(%2$d)</string>
+    <string name="version_update">%1$s(%2$d) [更新あり %3$s(%4$d)]</string>
+
+    <string name="dialog_module_update">モジュールの更新</string>
+
+    <string name="dialog_yes">はい</string>
+    <string name="dialog_no">いいえ</string>
+    <string name="dialog_save">保存</string>
+    <string name="dialog_reset">初期化</string>
+    <string name="dialog_dismiss">とじる</string>
+    <string name="dialog_value">値</string>
+
+    <!-- Misc. -->
+
+    <string name="pref_translators">翻訳者</string>
+    <string name="translators">AndroPlus-org</string>
+
+    <string name="pref_telegram_title">Telegram</string>
+
+    <string name="pref_reset_hook_title">フックの初期化</string>
+
+    <string name="pref_reset_config_title">設定の初期化</string>
+
+    <string name="dialog_reset_subtitle">本当に初期化しますか? 初期化後にアプリは再起動します。</string>
+
+    <string name="downloading">ダウンロード中…</string>
+    <string name="download_failed">ダウンロードに失敗しました</string>
+    <string name="download_link_copied">ダウンロードリンクをコピーしました</string>
+    <string name="download_media">メディア %1$d</string>
+    <string name="download_completed">ダウンロードしました</string>
+    <string name="download_all">すべてダウンロード</string>
+    <string name="download">ダウンロード</string>
+
+    <string name="promoted_tweet_deleted">%1d 個のプロモポストを削除しました</string>
+
+    <!-- Sections -->
+
+    <string name="section_version">バージョン</string>
+    <string name="section_general">一般</string>
+    <string name="section_experimental">試験的</string>
+    <string name="section_misc">その他</string>
+
+    <!-- Version -->
+    <string name="pref_host_version">ホストのバージョン</string>
+    <string name="pref_module_version">モジュールのバージョン</string>
+    <string name="pref_framework_name">フレームワーク名</string>
+    <string name="pref_framework_version">フレームワークのバージョン</string>
+    <string name="pref_framework_privilege">フレームワークの権限</string>
+
+    <!-- Privilege -->
+    <string name="privilege_root">Root</string>
+    <string name="privilege_container">コンテナ</string>
+    <string name="privilege_app">アプリ</string>
+    <string name="privilege_embedded">埋め込み</string>
+    <string name="privilege_unknown">不明</string>
+
+    <!-- Features -->
+
+    <string name="feature_remove_misc_title">様々な邪魔者を削除</string>
+    <string name="feature_remove_misc_desc">ビデオカルーセル、関連ポスト、もっと見つける、おすすめフォローなどを削除します</string>
+
+    <string name="feature_remove_promoted_timeline_tweet_title">タイムラインのプロモポストを削除</string>
+
+    <string name="feature_remove_promoted_trend_title">プロモトレンドを削除</string>
+
+    <string name="feature_remove_promoted_user_title">プロモユーザーを削除</string>
+
+    <string name="feature_remove_recommended_users_title">おすすめユーザーを削除</string>
+
+    <string name="feature_remove_sensitive_media_warning_title">センシティブなメディアの警告を削除</string>
+
+    <string name="feature_remove_pinned_tweets_title">固定ポストを削除</string>
+
+    <string name="feature_remove_trends_title">トレンドを削除</string>
+
+    <string name="feature_remove_threads_title">スレッドを削除</string>
+
+    <string name="feature_remove_video_carousel_title">ビデオカルーセルを削除</string>
+
+    <string name="feature_remove_events_title">イベントを削除</string>
+
+    <string name="feature_remove_related_tweet_title">関連ポストを削除</string>
+
+    <string name="feature_remove_suggest_who_to_follow_title">おすすめフォローを削除</string>
+
+    <string name="feature_remove_suggest_who_to_subscribe_title">おすすめクリエイターを削除</string>
+
+    <string name="feature_remove_community_to_join_title">おすすめコミュニティを削除</string>
+
+    <string name="feature_skip_short_link_redirect_title">短縮リンクのリダイレクトをスキップ</string>
+
+    <string name="feature_unpin_ssl_title">証明書のピン留めを解除</string>
+
+    <string name="feature_clean_url_title">URL を整形</string>
+
+    <string name="feature_download_video_title">動画のダウンロードを有効化</string>
+
+    <string name="feature_custom_media_download_title">カスタムメディアダウンロードを有効化</string>
+    <string name="feature_custom_media_download_desc">共有ボタンにダウンロードを追加します</string>
+
+    <string name="pref_custom_media_download_directory_title">メディア保存先ディレクトリ</string>
+
+    <string name="feature_remove_for_you_tab_title">おすすめタブを削除</string>
+
+    <string name="feature_remove_google_ads_title">Google 広告を削除</string>
+
+    <string name="feature_remove_navbar_items_title">ナビバー項目の削除を有効化</string>
+
+    <string name="pref_navbar_items_title">ナビバー項目/string>
+    <string name="pref_navbar_items_desc">削除するナビバー項目を選択してください</string>
+
+    <string name="feature_remove_drawer_items_title">ドロワー項目の削除を有効化</string>
+
+    <string name="pref_drawer_items_title">ドロワー項目</string>
+    <string name="pref_drawer_items_desc">削除するドロワー項目を選択してください</string>
+
+    <string name="feature_feature_switches_title">機能スイッチ</string>
+
+    <string name="pref_feature_switches_title">機能スイッチ項目</string>
+
+    <string name="feature_change_color_title">色の変更</string>
+
+    <string name="pref_change_color_title">カラーピッカー</string>
+
+    <string name="feature_disable_auto_scroll_title">タイムラインの自動スクロールを無効化</string>
+    <string name="feature_disable_auto_scroll_desc">タイムライン更新後に自動でトップにスクロールしないようにします</string>
+
+    <string name="feature_force_high_quality_video_playing_title">高画質な動画を強制</string>
+
+    <string name="feature_disable_banner_view">バナービューを無効化</string>
+</resources>
