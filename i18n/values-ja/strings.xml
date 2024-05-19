@@ -15,7 +15,7 @@
     <string name="dialog_no">いいえ</string>
     <string name="dialog_save">保存</string>
     <string name="dialog_reset">初期化</string>
-    <string name="dialog_dismiss">取り消す</string>
+    <string name="dialog_dismiss">取消</string>
     <string name="dialog_value">値</string>
 
     <!-- Misc. -->
@@ -71,7 +71,7 @@
 
     <string name="feature_remove_promoted_trend_title">プロモトレンドを非表示</string>
 
-    <string name="feature_remove_promoted_user_title">プロモユーザーを非表示</string>
+    <string name="feature_remove_promoted_user_title">プロモアカウントを非表示</string>
 
     <string name="feature_remove_recommended_users_title">おすすめユーザーを非表示</string>
 
@@ -103,7 +103,7 @@
 
     <string name="feature_download_video_title">動画のダウンロードを有効化</string>
 
-    <string name="feature_custom_media_download_title">カスタムメディアダウンロード機能を有効化</string>
+    <string name="feature_custom_media_download_title">独自のメディアダウンロード機能を有効化</string>
     <string name="feature_custom_media_download_desc">共有ボタンにダウンロードを追加します</string>
 
     <string name="pref_custom_media_download_directory_title">メディア保存先ディレクトリを選択</string>
