@@ -1,0 +1,139 @@
+<resources>
+
+    <!-- General -->
+
+    <string name="app_name">Hachidori</string>
+    <string name="author">by Team TwiFucker</string>
+    <string name="loading">読込中…</string>
+
+    <string name="version">%1$s(%2$d)</string>
+    <string name="version_update">%1$s(%2$d) [新バージョン %3$s(%4$d)]</string>
+
+    <string name="dialog_module_update">モジュールの更新</string>
+
+    <string name="dialog_yes">はい</string>
+    <string name="dialog_no">いいえ</string>
+    <string name="dialog_save">保存</string>
+    <string name="dialog_reset">初期化</string>
+    <string name="dialog_dismiss">取り消す</string>
+    <string name="dialog_value">値</string>
+
+    <!-- Misc. -->
+
+    <string name="pref_translators">翻訳者</string>
+    <string name="translators">MES-mitutti</string>
+
+    <string name="pref_telegram_title">Telegram</string>
+
+    <string name="pref_reset_hook_title">フックを初期化</string>
+
+    <string name="pref_reset_config_title">設定を初期化</string>
+
+    <string name="dialog_reset_subtitle">本当に初期化しますか？初期化後、アプリは再起動します。</string>
+
+    <string name="downloading">ダウンロード中…</string>
+    <string name="download_failed">ダウンロード失敗</string>
+    <string name="download_link_copied">ダウンロードリンクをコピー</string>
+    <string name="download_media">メディア %1$d</string>
+    <string name="download_completed">ダウンロード完了</string>
+    <string name="download_all">すべてダウンロード</string>
+    <string name="download">ダウンロード</string>
+
+    <string name="promoted_tweet_deleted">プロモツイートを %1d 非表示にしました</string>
+
+    <!-- Sections -->
+
+    <string name="section_version">バージョン</string>
+    <string name="section_general">一般</string>
+    <string name="section_experimental">実験的</string>
+    <string name="section_misc">その他</string>
+
+    <!-- Version -->
+    <string name="pref_host_version">インストールされているバージョン</string>
+    <string name="pref_module_version">モジュールバージョン</string>
+    <string name="pref_framework_name">フレームワーク名</string>
+    <string name="pref_framework_version">フレームワークバージョン</string>
+    <string name="pref_framework_privilege">フレームワーク特権</string>
+
+    <!-- Privilege -->
+    <string name="privilege_root">ルート(root)</string>
+    <string name="privilege_container">コンテナ(Container)</string>
+    <string name="privilege_app">アプリ(App)</string>
+    <string name="privilege_embedded">組み込み(embedded)</string>
+    <string name="privilege_unknown">不明(unknown)</string>
+
+    <!-- Features -->
+
+    <string name="feature_remove_misc_title">不要なものを非表示</string>
+    <string name="feature_remove_misc_desc">動画カルーセル、関連ツイート/おすすめ情報、フォロー推奨を非表示</string>
+
+    <string name="feature_remove_promoted_timeline_tweet_title">タイムラインのプロモーションツイートを非表示</string>
+
+    <string name="feature_remove_promoted_trend_title">プロモーショントレンドを非表示</string>
+
+    <string name="feature_remove_promoted_user_title">プロモーションアカウントを非表示</string>
+
+    <string name="feature_remove_recommended_users_title">おすすめユーザーを非表示</string>
+
+    <string name="feature_remove_sensitive_media_warning_title">閲覧注意コンテンツの警告を非表示</string>
+
+    <string name="feature_remove_pinned_tweets_title">固定ツイートを非表示</string>
+
+    <string name="feature_remove_trends_title">トレンドを非表示</string>
+
+    <string name="feature_remove_threads_title">スレッドを非表示</string>
+
+    <string name="feature_remove_video_carousel_title">動画カルーセルを非表示</string>
+
+    <string name="feature_remove_events_title">イベントを非表示</string>
+
+    <string name="feature_remove_related_tweet_title">関連ツイートを非表示</string>
+
+    <string name="feature_remove_suggest_who_to_follow_title">おすすめユーザーを非表示</string>
+
+    <string name="feature_remove_suggest_who_to_subscribe_title">おすすめクリエイターを非表示</string>
+
+    <string name="feature_remove_community_to_join_title">新しいコミュニティの発見を非表示</string>
+
+    <string name="feature_skip_short_link_redirect_title">短縮URLのリダイレクトをスキップ</string>
+
+    <string name="feature_unpin_ssl_title">SSL証明書の無効化</string>
+
+    <string name="feature_clean_url_title">クリーンURL(URLから不要なものを取り除く)</string>
+
+    <string name="feature_download_video_title">ビデオのダウンロードを有効化</string>
+
+    <string name="feature_custom_media_download_title">カスタムメディアのダウンロードを有効化</string>
+    <string name="feature_custom_media_download_desc">共有ボタンにダウンロードを追加</string>
+
+    <string name="pref_custom_media_download_directory_title">メディアファイルの保存ディレクトリを指定</string>
+
+    <string name="feature_remove_for_you_tab_title">おすすめコンテンツのタブを非表示</string>
+
+    <string name="feature_remove_google_ads_title">Google Adsを非表示</string>
+
+    <string name="feature_remove_navbar_items_title">ナビゲーションバーのアイテムを非表示</string>
+
+    <string name="pref_navbar_items_title">ナビゲーションバーのアイテム</string>
+    <string name="pref_navbar_items_desc">非表示にするナバーアイテムを選択</string>
+
+    <string name="feature_remove_drawer_items_title">ドロワーメニューの項目を非表示</string>
+
+    <string name="pref_drawer_items_title">ドロワーメニューの項目</string>
+    <string name="pref_drawer_items_desc">非表示にするドロワーメニューの項目を選択</string>
+
+    <string name="feature_feature_switches_title">機能スイッチ</string>
+
+    <string name="pref_feature_switches_title">機能スイッチの項目</string>
+
+    <string name="feature_change_color_title">色の変更</string>
+
+    <string name="pref_change_color_title">色の選択</string>
+
+    <string name="feature_disable_auto_scroll_title">タイムラインの自動スクロールを無効化</string>
+    <string name="feature_disable_auto_scroll_desc">タイムラインが更新された後に自動的に最上部にスクロールするのを無効化</string>
+
+    <string name="feature_force_high_quality_video_playing_title">高画質ビデオの強制</string>
+
+    <string name="feature_disable_banner_view">ヘッダー広告の表示を無効化</string>
+</resources>
