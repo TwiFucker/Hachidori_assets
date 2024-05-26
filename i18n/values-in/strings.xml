@@ -1,0 +1,137 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Hachidori</string>
+    <string name="author">dari Tim TwiFucker</string>
+    <string name="loading">memuat…</string>
+
+    <string name="version">%1$s(%2$d)</string>
+    <string name="version_update">%1$s(%2$d) [Versi baru tersedia %3$s(%4$d)]</string>
+
+    <string name="dialog_module_update">Perbarui modul</string>
+
+    <string name="dialog_yes">Iya</string>
+    <string name="dialog_no">Tidak</string>
+    <string name="dialog_save">Simpan</string>
+    <string name="dialog_reset">Atur ulang</string>
+    <string name="dialog_dismiss">Batalkan</string>
+    <string name="dialog_value">Nilai</string>
+
+    <!-- Misc. -->
+
+    <string name="pref_translators">Penerjemah</string>
+    <string name="translators">24west</string>
+
+    <string name="pref_telegram_title">Telegram</string>
+
+    <string name="pref_reset_hook_title">Setel ulang Hook</string>
+
+    <string name="pref_reset_config_title">Setel ulang Config</string>
+
+    <string name="dialog_reset_subtitle">Apa kamu yakin mau mengatur ulang? Aplikasi akan di mengulang kembali setelah di atur ulang.</string>
+
+    <string name="downloading">Mengunduh…</string>
+    <string name="download_failed">Pengunduhan gagal</string>
+    <string name="download_link_copied">Tautan unduhan disalin</string>
+    <string name="download_media">Media %1$d</string>
+    <string name="download_completed">Pengunduhan selesai</string>
+    <string name="download_all">Unduh semuanya</string>
+    <string name="download">Unduh</string>
+
+    <string name="promoted_tweet_deleted">Menghapus %1d tweet yang dipromosikan</string>
+
+    <!-- Sections -->
+
+    <string name="section_version">Versi</string>
+    <string name="section_general">Umum</string>
+    <string name="section_experimental">Eksperimental</string>
+    <string name="section_misc">Lain-lain.</string>
+
+    <!-- Version -->
+    <string name="pref_host_version">Versi Host</string>
+    <string name="pref_module_version">Versi Modul</string>
+    <string name="pref_framework_name">Nama Kerangka</string>
+    <string name="pref_framework_version">Versi Kerangka</string>
+    <string name="pref_framework_privilege">Hak Istimewa Kerangka</string>
+
+    <!-- Privilege -->
+    <string name="privilege_root">Root</string>
+    <string name="privilege_container">Wadah</string>
+    <string name="privilege_app">Apl</string>
+    <string name="privilege_embedded">Tertanam</string>
+    <string name="privilege_unknown">Tidak dikenal</string>
+
+    <!-- Features -->
+
+    <string name="feature_remove_misc_title">Hapus berbagai gangguan</string>
+    <string name="feature_remove_misc_desc">Hapus carousel video, tweet terkait / temukan lebih banyak dan saran siapa yang harus diikuti</string>
+
+    <string name="feature_remove_promoted_timeline_tweet_title">Hapus tweet timeline yang dipromosikan</string>
+
+    <string name="feature_remove_promoted_trend_title">Hapus tren yang dipromosikan</string>
+
+    <string name="feature_remove_promoted_user_title">Hapus pengguna yang dipromosikan</string>
+
+    <string name="feature_remove_recommended_users_title">Hapus pengguna yang direkomendasikan</string>
+
+    <string name="feature_remove_sensitive_media_warning_title">Hapus Peringatan Media Sensitif</string>
+
+    <string name="feature_remove_pinned_tweets_title">Hapus Tweet yang Disematkan</string>
+
+    <string name="feature_remove_trends_title">Hapus Tren</string>
+
+    <string name="feature_remove_threads_title">Hapus Thread</string>
+
+    <string name="feature_remove_video_carousel_title">Hapus korsel Video</string>
+
+    <string name="feature_remove_events_title">Hapus Acara</string>
+
+    <string name="feature_remove_related_tweet_title">Hapus tweet Terkait</string>
+
+    <string name="feature_remove_suggest_who_to_follow_title">Hapus Siapa yang harus diikuti</string>
+
+    <string name="feature_remove_suggest_who_to_subscribe_title">Hapus Pembuat Konten untuk Anda</string>
+
+    <string name="feature_remove_community_to_join_title">Hapus Temukan Komunitas baru</string>
+
+    <string name="feature_skip_short_link_redirect_title">Lewati pengalihan tautan pendek</string>
+
+    <string name="feature_unpin_ssl_title">Lepas pin SSL</string>
+
+    <string name="feature_clean_url_title">Bersihkan URL</string>
+
+    <string name="feature_download_video_title">Aktifkan pengunduhan video</string>
+
+    <string name="feature_custom_media_download_title">Aktifkan pengunduhan media khusus</string>
+    <string name="feature_custom_media_download_desc">Tambahkan unduhan di tombol bagikan</string>
+
+    <string name="pref_custom_media_download_directory_title">Direktori pengunduhan media khusus</string>
+
+    <string name="feature_remove_for_you_tab_title">Hapus tab Untuk Anda</string>
+
+    <string name="feature_remove_google_ads_title">Hapus Iklan Google</string>
+
+    <string name="feature_remove_navbar_items_title">Hapus sakelar item navbar</string>
+
+    <string name="pref_navbar_items_title">Item Bilah Nav</string>
+    <string name="pref_navbar_items_desc">Pilih item bilah navigasi yang akan dihapus</string>
+
+    <string name="feature_remove_drawer_items_title">Hapus sakelar item laci</string>
+
+    <string name="pref_drawer_items_title">Item Laci</string>
+    <string name="pref_drawer_items_desc">Pilih item laci untuk dihapus</string>
+
+    <string name="feature_feature_switches_title">Sakelar Fitur</string>
+
+    <string name="pref_feature_switches_title">Fitur Mengalihkan Item</string>
+
+    <string name="feature_change_color_title">Ganti warna</string>
+
+    <string name="pref_change_color_title">Pemilih warna</string>
+
+    <string name="feature_disable_auto_scroll_title">Nonaktifkan gulir otomatis garis waktu</string>
+    <string name="feature_disable_auto_scroll_desc">Nonaktifkan gulir otomatis ke atas setelah garis waktu disegarkan</string>
+
+    <string name="feature_force_high_quality_video_playing_title">Paksa video berkualitas tinggi</string>
+
+    <string name="feature_disable_banner_view">Nonaktifkan tampilan spanduk</string>
+</resources>
