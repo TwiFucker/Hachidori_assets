@@ -17,6 +17,7 @@
     <string name="dialog_reset">初期化</string>
     <string name="dialog_dismiss">取消</string>
     <string name="dialog_value">値</string>
+    <string name="dialog_search">検索…</string>
 
     <!-- Misc. -->
 
