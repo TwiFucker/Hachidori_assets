@@ -21,6 +21,7 @@
     <string name="dialog_reset">Reset</string>
     <string name="dialog_dismiss">Dismiss</string>
     <string name="dialog_value">Value</string>
+    <string name="dialog_search">Search…</string>
 
     <!-- Misc. -->
 

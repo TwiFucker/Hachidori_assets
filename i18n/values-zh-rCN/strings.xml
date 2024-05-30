@@ -15,10 +15,11 @@
     <string name="dialog_reset">重置</string>
     <string name="dialog_dismiss">关闭</string>
     <string name="dialog_value">值</string>
+    <string name="dialog_search">搜索…</string>
 
     <!-- Misc. -->
 
-    <string name="pref_translators">Translators</string>
+    <string name="pref_translators">译者</string>
     <string name="translators">JasonKhew96</string>
 
     <string name="pref_telegram_title">电报</string>
