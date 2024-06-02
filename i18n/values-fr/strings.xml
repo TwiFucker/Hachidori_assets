@@ -53,11 +53,11 @@
     <string name="section_misc">Divers</string>
 
     <!-- Version -->
-    <string name="pref_host_version">Version de l\'hébergeur</string>
+    <string name="pref_host_version">Version de l\'application hôte</string>
     <string name="pref_module_version">Version du module</string>
     <string name="pref_framework_name">Nom du sous système d\'injection</string>
     <string name="pref_framework_version">Version du sous système d\'injection</string>
-    <string name="pref_framework_privilege">Privilégèe du sous système d\'injection</string>
+    <string name="pref_framework_privilege">Accès du sous système d\'injection</string>
 
     <!-- Privilege -->
     <string name="privilege_root">Raçine</string>
