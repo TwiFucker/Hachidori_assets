@@ -1,0 +1,144 @@
+<resources>
+    <!-- STUB! DO NOT TRANSLATE -->
+
+    <!--suppress CheckTagEmptyBody -->
+    <string name="stub" translatable="false"></string>
+
+    <!-- General -->
+
+    <string name="app_name">Hachidori</string>
+    <string name="author">Twórca Team TwiFucker</string>            
+    <string name="loading">Ładowanie…</string>
+
+    <string name="version">%1$s(%2$d)</string>
+    <string name="version_update">%1$s(%2$d) [Nowa wersja dostępna %3$s(%4$d)]</string>
+
+    <string name="dialog_module_update">Aktualizuj moduł</string>
+
+    <string name="dialog_yes">Tak</string>
+    <string name="dialog_no">Nie</string>
+    <string name="dialog_save">Zapisz</string>
+    <string name="dialog_reset">Zresetuj</string>
+    <string name="dialog_dismiss">Odrzuć</string>
+    <string name="dialog_value">Value</string>
+    <string name="dialog_search">Szukaj…</string>
+
+    <!-- Misc. -->
+
+    <string name="pref_translators">Tłumacze</string>
+    <string name="translators">Pomóż nam tłumaczyć!</string>
+
+    <string name="pref_telegram_title">Telegram</string>
+
+    <string name="pref_reset_hook_title">Reset Hook</string>
+
+    <string name="pref_reset_config_title">Reset Config</string>
+
+    <string name="dialog_reset_subtitle">Czy na pewno chcesz zresetować? Aplikacja uruchomi się ponownie po zresetowaniu.</string>
+
+    <string name="downloading">Pobieranie…</string>
+    <string name="download_failed">Pobieranie nie udane</string>
+    <string name="download_link_copied">Link do pobrania skopiowany</string>
+    <string name="download_media">Media %1$d</string>
+    <string name="download_completed">Pobieranie zakończone</string>
+    <string name="download_all">Pobierz wszystko</string>
+    <string name="download">Pobierz</string>
+
+    <string name="promoted_tweet_deleted">Usunięto %1d promowanych tweetów</string>
+
+    <!-- Sections -->
+
+    <string name="section_version">Wersja</string>
+    <string name="section_general">Ogólne</string>
+    <string name="section_experimental">Eksperymentalne</string>
+    <string name="section_misc">Inne</string>
+
+    <!-- Version -->
+    <string name="pref_host_version">Wersja Aplikacji</string>
+    <string name="pref_module_version">Wersja Modułu</string>
+    <string name="pref_framework_name">Nazwa Frameworka</string>
+    <string name="pref_framework_version">Wersja Frameworka</string>
+    <string name="pref_framework_privilege">Uprawnienia Frameworka</string>
+
+    <!-- Privilege -->
+    <string name="privilege_root">Root</string>
+    <string name="privilege_container">Container</string>
+    <string name="privilege_app">Apliakcja</string>
+    <string name="privilege_embedded">Wbudowany</string>
+    <string name="privilege_unknown">Nieznany</string>
+
+    <!-- Features -->
+
+    <string name="feature_remove_misc_title">Usuń różne irytujące elementy</string>
+    <string name="feature_remove_misc_desc">Usuń karuzelę wideo, powiązane tweety / odkryj więcej i sugestie, kogo obserwować</string>
+
+    <string name="feature_remove_promoted_timeline_tweet_title">Usuń promowany tweet na osi czasu</string>
+
+    <string name="feature_remove_promoted_trend_title">Usuń promowany trend</string>
+
+    <string name="feature_remove_promoted_user_title">Usuń promowanego użytkownika</string>
+
+    <string name="feature_remove_recommended_users_title">Usuń kogo obserwować</string>
+
+    <string name="feature_remove_sensitive_media_warning_title">Usuń ostrzeżenie o wrażliwych treściach</string>
+
+    <string name="feature_remove_pinned_tweets_title">Usuń przypięte tweety</string>
+
+    <string name="feature_remove_trends_title">Usuń trendy</string>
+
+    <string name="feature_remove_threads_title">Usuń wątki</string>
+
+    <string name="feature_remove_video_carousel_title">Usuń karuzelę wideo</string>
+
+    <string name="feature_remove_events_title">Usuń zdarzenia</string>
+
+    <string name="feature_remove_related_tweet_title">Usuń powiązany tweet</string>
+
+    <string name="feature_remove_suggest_who_to_follow_title">Usuń kogo obserwować</string>
+
+    <string name="feature_remove_suggest_who_to_subscribe_title">Usuń twórców</string>
+
+    <string name="feature_remove_community_to_join_title">Usuń odkryj nowe społeczności</string>
+
+    <string name="feature_skip_short_link_redirect_title">Pomiń przekierowanie linku</string>
+
+    <string name="feature_unpin_ssl_title">Odepnij SSL</string>
+
+    <string name="feature_clean_url_title">Wyczyść URL</string>
+
+    <string name="feature_download_video_title">Włącz pobieranie wideo</string>
+
+    <string name="feature_custom_media_download_title">Włącz niestandardowe pobieranie multimediów</string>
+    <string name="feature_custom_media_download_desc">Dodaj przycisk pobierania w menu udostępniania</string>
+
+    <string name="pref_custom_media_download_directory_title">Niestandardowy katalog pobierania multimediów</string>
+
+    <string name="feature_remove_for_you_tab_title">Usuń zakładkę dla Cebie</string>
+
+    <string name="feature_remove_google_ads_title">Usuń reklamy Google</string>
+
+    <string name="feature_remove_navbar_items_title">Usuń przełącznik elementów paska nawigacyjnego</string>
+
+    <string name="pref_navbar_items_title">Elementy paska nawigacji</string>
+    <string name="pref_navbar_items_desc">Wybierz elementy paska nawigacyjnego do usunięcia</string>
+
+    <string name="feature_remove_drawer_items_title">Usuń przełącznik elementów szuflady</string>
+
+    <string name="pref_drawer_items_title">Elementy szuflady</string>
+    <string name="pref_drawer_items_desc">Wybierz elementy szuflady do usunięcia</string>
+
+    <string name="feature_feature_switches_title">Przełączniki funkcji</string>
+
+    <string name="pref_feature_switches_title">Elementy przełączników funkcji</string>
+
+    <string name="feature_change_color_title">Zmień kolor</string>
+
+    <string name="pref_change_color_title">Wybierz kolor</string>
+
+    <string name="feature_disable_auto_scroll_title">Wyłącz automatyczne przewijanie osi czasu</string>
+    <string name="feature_disable_auto_scroll_desc">Wyłącz automatyczne przewijanie do góry po odświeżeniu osi czasu</string>
+
+    <string name="feature_force_high_quality_video_playing_title">Wymuś wysoką jakość wideo</string>
+
+    <string name="feature_disable_banner_view">Wyłącz widok banerów</string>
+</resources>
