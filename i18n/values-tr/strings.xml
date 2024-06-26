@@ -1,0 +1,144 @@
+<resources>
+    <!-- STUB! DO NOT TRANSLATE -->
+
+    <!--suppress CheckTagEmptyBody -->
+    <string name="stub" translatable="false"></string>
+
+    <!-- Genel -->
+
+    <string name="app_name">Hachidori</string>
+    <string name="author">TwiFucker Takımı tarafından</string>
+    <string name="loading">yükleniyor…</string>
+
+    <string name="version">%1$s(%2$d)</string>
+    <string name="version_update">%1$s(%2$d) [Yeni Sürüm mevcut %3$s(%4$d)]</string>
+
+    <string name="dialog_module_update">Modülü güncelle</string>
+
+    <string name="dialog_yes">Evet</string>
+    <string name="dialog_no">Hayır</string>
+    <string name="dialog_save">Kaydet</string>
+    <string name="dialog_reset">Sıfırla</string>
+    <string name="dialog_dismiss">Kapat</string>
+    <string name="dialog_value">Değer</string>
+    <string name="dialog_search">Ara…</string>
+
+    <!-- Çeşitli -->
+
+    <string name="pref_translators">Çevirmenler</string>
+    <string name="translators">Çevirmemize yardımcı olun!</string>
+
+    <string name="pref_telegram_title">Telegram</string>
+
+    <string name="pref_reset_hook_title">Hook'u Sıfırla</string>
+
+    <string name="pref_reset_config_title">Yapılandırmayı Sıfırla</string>
+
+    <string name="dialog_reset_subtitle">Sıfırlamak istediğinizden emin misiniz? Uygulama sıfırlandıktan sonra yeniden başlayacak.</string>
+
+    <string name="downloading">İndiriliyor…</string>
+    <string name="download_failed">İndirme başarısız oldu</string>
+    <string name="download_link_copied">İndirme bağlantısı kopyalandı</string>
+    <string name="download_media">Medya %1$d</string>
+    <string name="download_completed">İndirme tamamlandı</string>
+    <string name="download_all">Hepsini indir</string>
+    <string name="download">İndir</string>
+
+    <string name="promoted_tweet_deleted">%1d reklamlı tweet silindi</string>
+
+    <!-- Bölümler -->
+
+    <string name="section_version">Sürüm</string>
+    <string name="section_general">Genel</string>
+    <string name="section_experimental">Deneysel</string>
+    <string name="section_misc">Çeşitli</string>
+
+    <!-- Sürüm -->
+    <string name="pref_host_version">Ana Sürüm</string>
+    <string name="pref_module_version">Modül Sürümü</string>
+    <string name="pref_framework_name">Çerçeve Adı</string>
+    <string name="pref_framework_version">Çerçeve Sürümü</string>
+    <string name="pref_framework_privilege">Çerçeve Yetkisi</string>
+
+    <!-- Yetki -->
+    <string name="privilege_root">Root</string>
+    <string name="privilege_container">Konteyner</string>
+    <string name="privilege_app">Uygulama</string>
+    <string name="privilege_embedded">Gömülü</string>
+    <string name="privilege_unknown">Bilinmeyen</string>
+
+    <!-- Özellikler -->
+
+    <string name="feature_remove_misc_title">Çeşitli can sıkıcı şeyleri kaldır</string>
+    <string name="feature_remove_misc_desc">Video karuseli, ilgili tweet / daha fazla keşfet ve takip edilecek kişi önerilerini kaldır</string>
+
+    <string name="feature_remove_promoted_timeline_tweet_title">Reklamlı zaman tüneli tweetini kaldır</string>
+
+    <string name="feature_remove_promoted_trend_title">Reklamlı trendi kaldır</string>
+
+    <string name="feature_remove_promoted_user_title">Reklamlı kullanıcıyı kaldır</string>
+
+    <string name="feature_remove_recommended_users_title">Önerilen kullanıcıları kaldır</string>
+
+    <string name="feature_remove_sensitive_media_warning_title">Hassas Medya Uyarısını Kaldır</string>
+
+    <string name="feature_remove_pinned_tweets_title">Sabitlenmiş Tweetleri Kaldır</string>
+
+    <string name="feature_remove_trends_title">Trendleri Kaldır</string>
+
+    <string name="feature_remove_threads_title">Konuları Kaldır</string>
+
+    <string name="feature_remove_video_carousel_title">Video karuseli kaldır</string>
+
+    <string name="feature_remove_events_title">Etkinlikleri Kaldır</string>
+
+    <string name="feature_remove_related_tweet_title">İlgili tweeti Kaldır</string>
+
+    <string name="feature_remove_suggest_who_to_follow_title">Takip edilecek kişileri Kaldır</string>
+
+    <string name="feature_remove_suggest_who_to_subscribe_title">Sizin için İçerik Üreticileri Kaldır</string>
+
+    <string name="feature_remove_community_to_join_title">Yeni Toplulukları Keşfet'i Kaldır</string>
+
+    <string name="feature_skip_short_link_redirect_title">Kısa bağlantı yönlendirmesini atla</string>
+
+    <string name="feature_unpin_ssl_title">SSL'i kaldır</string>
+
+    <string name="feature_clean_url_title">URL'yi Temizle</string>
+
+    <string name="feature_download_video_title">Video indirmeyi etkinleştir</string>
+
+    <string name="feature_custom_media_download_title">Özel medya indirmeyi etkinleştir</string>
+    <string name="feature_custom_media_download_desc">Paylaş butonuna indirme ekle</string>
+
+    <string name="pref_custom_media_download_directory_title">Özel medya indirme dizini</string>
+
+    <string name="feature_remove_for_you_tab_title">Sizin İçin sekmesini kaldır</string>
+
+    <string name="feature_remove_google_ads_title">Google Reklamlarını Kaldır</string>
+
+    <string name="feature_remove_navbar_items_title">Navigasyon çubuğu öğelerini kaldırma anahtarı</string>
+
+    <string name="pref_navbar_items_title">Navigasyon Çubuğu Öğeleri</string>
+    <string name="pref_navbar_items_desc">Kaldırılacak navigasyon çubuğu öğelerini seçin</string>
+
+    <string name="feature_remove_drawer_items_title">Çekmece öğelerini kaldırma anahtarı</string>
+
+    <string name="pref_drawer_items_title">Çekmece Öğeleri</string>
+    <string name="pref_drawer_items_desc">Kaldırılacak çekmece öğelerini seçin</string>
+  
+    <string name="feature_feature_switches_title">Özellik Anahtarları</string>
+
+    <string name="pref_feature_switches_title">Özellik Anahtarı Öğeleri</string>
+
+    <string name="feature_change_color_title">Renk değiştir</string>
+
+    <string name="pref_change_color_title">Renk Seçici</string>
+
+    <string name="feature_disable_auto_scroll_title">Zaman tüneli otomatik kaydırmayı devre dışı bırak</string>
+    <string name="feature_disable_auto_scroll_desc">Zaman tüneli yenilendikten sonra otomatik yukarı kaydırmayı devre dışı bırak</string>
+
+    <string name="feature_force_high_quality_video_playing_title">Yüksek kaliteli videoyu zorla</string>
+
+    <string name="feature_disable_banner_view">Afiş görünümünü devre dışı bırak</string>
+</resources>
