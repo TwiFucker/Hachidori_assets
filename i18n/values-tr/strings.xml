@@ -30,7 +30,7 @@
 
     <string name="pref_telegram_title">Telegram</string>
 
-    <string name="pref_reset_hook_title">Hook'u Sıfırla</string>
+    <string name="pref_reset_hook_title">Hook\'u Sıfırla</string>
 
     <string name="pref_reset_config_title">Yapılandırmayı Sıfırla</string>
 
@@ -98,13 +98,13 @@
 
     <string name="feature_remove_suggest_who_to_subscribe_title">Sizin için İçerik Üreticileri Kaldır</string>
 
-    <string name="feature_remove_community_to_join_title">Yeni Toplulukları Keşfet'i Kaldır</string>
+    <string name="feature_remove_community_to_join_title">Yeni Toplulukları Keşfet\'i Kaldır</string>
 
     <string name="feature_skip_short_link_redirect_title">Kısa bağlantı yönlendirmesini atla</string>
 
-    <string name="feature_unpin_ssl_title">SSL'i kaldır</string>
+    <string name="feature_unpin_ssl_title">SSL\'i kaldır</string>
 
-    <string name="feature_clean_url_title">URL'yi Temizle</string>
+    <string name="feature_clean_url_title">URL\'yi Temizle</string>
 
     <string name="feature_download_video_title">Video indirmeyi etkinleştir</string>
 
