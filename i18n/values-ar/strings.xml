@@ -2,14 +2,14 @@
     <!-- General -->
     <string name="app_name">Hachidori</string>
     <string name="author">من فريق TwiFucker</string>
-    <string name="loading">قاعدين نحمل…</string>
+    <string name="loading">اصبر قاعدين نحمل…</string>
 
     <string name="version">%1$s(%2$d)</string>
     <string name="version_update">%1$s(%2$d) [فيه نسخة جديدة %3$s(%4$d)]</string>
 
     <string name="dialog_module_update">تحديث الوحدة</string>
 
-    <string name="dialog_yes">ايوه</string>
+    <string name="dialog_yes">إيه</string>
     <string name="dialog_no">لأ</string>
     <string name="dialog_save">حفظ</string>
     <string name="dialog_reset">نرجع كل شي زي ما كان</string>
@@ -22,17 +22,17 @@
     <string name="pref_translators">المترجم</string>
     <string name="translators">X@1TTEP</string>
 
-    <string name="pref_telegram_title">تليجرام</string>
+    <string name="pref_telegram_title">تليقرام</string>
 
     <string name="pref_reset_hook_title">نرجع الخطاف زي ما كان</string>
 
     <string name="pref_reset_config_title">نرجع الإعدادات زي ما كانت</string>
 
-    <string name="dialog_reset_subtitle">متأكد إنك تبي ترجع كل شي زي ما كان؟ التطبيق راح يقفل ويتفتح من جديد بعد ما نرجع الإعدادات.</string>
+    <string name="dialog_reset_subtitle">متأكد إنك تبي ترجع كل شي زي ما كان؟ التطبيق راح يقفل ويفتح من جديد بعد ما نرجع الإعدادات.</string>
 
     <string name="downloading">قاعدين ننزّل…</string>
     <string name="download_failed">ما قدرنا ننزل</string>
-    <string name="download_link_copied">انسخنا لك رابط التنزيل</string>
+    <string name="download_link_copied">نسخنا لك رابط التنزيل</string>
     <string name="download_media">الوسائط %1$d</string>
     <string name="download_completed">خلص التنزيل</string>
     <string name="download_all">نزّل الكل</string>
@@ -50,16 +50,16 @@
     <!-- Version -->
     <string name="pref_host_version">نسخة المضيف</string>
     <string name="pref_module_version">نسخة الوحدة</string>
-    <string name="pref_framework_name">اسم الإطار</string>
-    <string name="pref_framework_version">نسخة الإطار</string>
-    <string name="pref_framework_privilege">أذونات الإطار</string>
+    <string name="pref_framework_name">اسم البرمجة</string>
+    <string name="pref_framework_version">نسخة البرمجة</string>
+    <string name="pref_framework_privilege">أذونات البرمجة</string>
 
     <!-- Privilege -->
     <string name="privilege_root">رووت</string>
     <string name="privilege_container">حاوية</string>
     <string name="privilege_app">تطبيق</string>
     <string name="privilege_embedded">مضمن</string>
-    <string name="privilege_unknown">مش معروف</string>
+    <string name="privilege_unknown">مو معروف</string>
 
     <!-- Features -->
 
