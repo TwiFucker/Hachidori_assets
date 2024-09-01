@@ -100,8 +100,6 @@
 
     <string name="feature_clean_url_title">ننظف الروابط</string>
 
-    <string name="feature_download_video_title">نفعل تنزيل الفيديو</string>
-
     <string name="feature_custom_media_download_title">نفعل تنزيل الوسائط بشكل مخصص</string>
     <string name="feature_custom_media_download_desc">نضيف خيار التنزيل في زر المشاركة</string>
 

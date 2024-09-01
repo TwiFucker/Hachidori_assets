@@ -106,7 +106,9 @@
 
     <string name="feature_clean_url_title">Clean URL</string>
 
-    <string name="feature_download_video_title">Enable video download</string>
+    <string name="feature_unlock_local_premium_title">Unlock local premium</string>
+
+    <string name="pref_custom_app_icon_title">Custom App Icon</string>
 
     <string name="feature_custom_media_download_title">Enable custom media download</string>
     <string name="feature_custom_media_download_desc">Add download in share button</string>

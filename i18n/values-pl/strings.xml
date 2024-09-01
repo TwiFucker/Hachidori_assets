@@ -106,8 +106,6 @@
 
     <string name="feature_clean_url_title">Wyczyść URL</string>
 
-    <string name="feature_download_video_title">Włącz pobieranie wideo</string>
-
     <string name="feature_custom_media_download_title">Włącz niestandardowe pobieranie multimediów</string>
     <string name="feature_custom_media_download_desc">Dodaj przycisk pobierania w menu udostępniania</string>
 

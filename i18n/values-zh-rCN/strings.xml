@@ -100,8 +100,6 @@
 
     <string name="feature_clean_url_title">净化链接</string>
 
-    <string name="feature_download_video_title">启用视频下载</string>
-
     <string name="feature_custom_media_download_title">启用自定义媒体下载</string>
     <string name="feature_custom_media_download_desc">添加在分享页内</string>
 

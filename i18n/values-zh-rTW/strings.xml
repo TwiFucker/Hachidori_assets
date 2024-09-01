@@ -100,8 +100,6 @@
 
     <string name="feature_clean_url_title">淨化連結</string>
 
-    <string name="feature_download_video_title">啟用影片下載</string>
-
     <string name="feature_custom_media_download_title">啟用自訂媒體下載</string>
     <string name="feature_custom_media_download_desc">分享按鈕裡新增下載</string>
 

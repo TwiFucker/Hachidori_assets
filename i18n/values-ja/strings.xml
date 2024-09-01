@@ -102,8 +102,6 @@
 
     <string name="feature_clean_url_title">URL から不要なものを取り除く</string>
 
-    <string name="feature_download_video_title">動画のダウンロードを有効化</string>
-
     <string name="feature_custom_media_download_title">独自のメディアダウンロード機能を有効化</string>
     <string name="feature_custom_media_download_desc">共有ボタンにダウンロードを追加します</string>
 

@@ -102,8 +102,6 @@
 
     <string name="feature_clean_url_title">Làm sạch URL</string>
 
-    <string name="feature_download_video_title">Kích hoạt tải xuống video</string>
-
     <string name="feature_custom_media_download_title">Kích hoạt tuỳ chọn tải xuống khác cho đa phương tiện</string>
     <string name="feature_custom_media_download_desc">Thêm nút tải xuống vào phần chia sẻ</string>
 
