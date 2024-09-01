@@ -102,6 +102,10 @@
 
     <string name="feature_clean_url_title">URL から不要なものを取り除く</string>
 
+    <string name="feature_unlock_local_premium_title">ローカルプレミアム機能をアンロック</string>
+
+    <string name="pref_custom_app_icon_title">カスタムアプリアイコン</string>
+
     <string name="feature_custom_media_download_title">独自のメディアダウンロード機能を有効化</string>
     <string name="feature_custom_media_download_desc">共有ボタンにダウンロードを追加します</string>
 
