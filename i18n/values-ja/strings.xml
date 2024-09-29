@@ -65,9 +65,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">不要なものを非表示</string>
-    <string name="feature_remove_misc_desc">動画カルーセル、関連ポスト、もっと見つける、おすすめフォローなどを非表示にします</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">タイムラインのプロモポストを非表示</string>
 
     <string name="feature_remove_promoted_trend_title">プロモトレンドを非表示</string>

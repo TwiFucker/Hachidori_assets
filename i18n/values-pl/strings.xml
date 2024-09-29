@@ -69,9 +69,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">Usuń różne irytujące elementy</string>
-    <string name="feature_remove_misc_desc">Usuń karuzelę wideo, powiązane tweety / odkryj więcej i sugestie, kogo obserwować</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">Usuń promowany tweet na osi czasu</string>
 
     <string name="feature_remove_promoted_trend_title">Usuń promowany trend</string>

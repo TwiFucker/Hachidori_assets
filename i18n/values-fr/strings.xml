@@ -68,9 +68,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">Supprimer les désagréments divers</string>
-    <string name="feature_remove_misc_desc">Supprimer le carrousel des vidéos, le tweet connexe / découvrir plus et les suggestions de personnes à suivre</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">Supprimer les tweets promotionnels du fil</string>
 
     <string name="feature_remove_promoted_trend_title">Supprimer les tendances promotionnelles</string>

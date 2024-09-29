@@ -62,9 +62,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">Hapus berbagai gangguan</string>
-    <string name="feature_remove_misc_desc">Hapus carousel video, tweet terkait / temukan lebih banyak dan saran siapa yang harus diikuti</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">Hapus tweet timeline yang dipromosikan</string>
 
     <string name="feature_remove_promoted_trend_title">Hapus tren yang dipromosikan</string>

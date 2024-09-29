@@ -44,6 +44,10 @@
     <string name="download_all">Download all</string>
     <string name="download">Download</string>
 
+    <plurals name="database_deleted_rows">
+        <item quantity="one">Deleted %1d row from database</item>
+        <item quantity="other">Deleted %1d rows from database</item>
+    </plurals>
     <string name="promoted_tweet_deleted">Deleted %1d promoted tweets</string>
 
     <!-- Sections -->
@@ -68,9 +72,6 @@
     <string name="privilege_unknown">Unknown</string>
 
     <!-- Features -->
-
-    <string name="feature_remove_misc_title">Remove miscellaneous annoyance</string>
-    <string name="feature_remove_misc_desc">Remove video carousel, related tweet / discover more and who to follow suggestion</string>
 
     <string name="feature_remove_promoted_timeline_tweet_title">Remove promoted timeline tweet</string>
 
@@ -100,6 +101,9 @@
 
     <string name="feature_remove_community_to_join_title">Remove Discover new Communities</string>
 
+    <string name="feature_remove_superhero_title">Remove superhero</string>
+    <string name="feature_remove_superhero_desc">This remove large promoted banner in explore tab</string>
+
     <string name="feature_skip_short_link_redirect_title">Skip short link redirect</string>
 
     <string name="feature_unpin_ssl_title">Unpin SSL</string>
@@ -109,6 +113,8 @@
     <string name="feature_unlock_local_premium_title">Unlock local premium</string>
 
     <string name="pref_custom_app_icon_title">Custom App Icon</string>
+
+    <string name="pref_undo_tweet_settings_title">Undo tweet settings</string>
 
     <string name="feature_custom_media_download_title">Enable custom media download</string>
     <string name="feature_custom_media_download_desc">Add download in share button</string>

@@ -63,9 +63,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">移除其他</string>
-    <string name="feature_remove_misc_desc">移除影片輪播、相關推文/發現更多以及推薦關注的建議</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">移除時間線廣告</string>
 
     <string name="feature_remove_promoted_trend_title">移除趨勢廣告</string>

@@ -69,9 +69,6 @@
 
     <!-- Özellikler -->
 
-    <string name="feature_remove_misc_title">Çeşitli can sıkıcı şeyleri kaldır</string>
-    <string name="feature_remove_misc_desc">Video karuseli, ilgili tweet / daha fazla keşfet ve takip edilecek kişi önerilerini kaldır</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">Reklamlı zaman tüneli tweetini kaldır</string>
 
     <string name="feature_remove_promoted_trend_title">Reklamlı trendi kaldır</string>

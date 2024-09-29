@@ -63,9 +63,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">移除杂项</string>
-    <string name="feature_remove_misc_desc">移除视频轮播、相关推文/发现更多、推荐关注</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">移除时间线中的广告</string>
 
     <string name="feature_remove_promoted_trend_title">移除趋势广告</string>

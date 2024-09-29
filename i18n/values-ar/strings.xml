@@ -63,9 +63,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">نشيل حاجات ثانية</string>
-    <string name="feature_remove_misc_desc">نشيل فيديوهات الكاروسيل، التغريدات المرتبطة واكتشف المزيد وتوصيات المتابعة</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">نشيل الإعلانات من التايم لاين</string>
 
     <string name="feature_remove_promoted_trend_title">نشيل الترويج للترندات</string>
