@@ -24,7 +24,7 @@
 
     <string name="pref_telegram_title">Telegram</string>
 
-    <string name="pref_reset_hook_title">重置Hook</string>
+    <string name="pref_reset_hook_title">重置 Hook</string>
 
     <string name="pref_reset_config_title">重置设置</string>
 
@@ -37,7 +37,11 @@
     <string name="download_completed">下载完成</string>
     <string name="download_all">下载全部</string>
     <string name="download">下载</string>
-
+    
+    <plurals name="database_deleted_rows">
+        <item quantity="one">已删除 %1d 行数据</item>
+        <item quantity="other">已删除 %1d 行数据</item>
+    </plurals>
     <string name="promoted_tweet_deleted">已删除 %1d 条广告推文</string>
 
     <!-- Sections -->
@@ -45,7 +49,7 @@
     <string name="section_version">版本信息</string>
     <string name="section_general">常规设置</string>
     <string name="section_experimental">实验性设置</string>
-    <string name="section_misc">其他设置</string>
+    <string name="section_misc">其它</string>
 
     <!-- Version -->
     <string name="pref_host_version">宿主版本</string>
@@ -73,7 +77,7 @@
 
     <string name="feature_remove_sensitive_media_warning_title">移除敏感媒体警告</string>
 
-    <string name="feature_remove_pinned_tweets_title">移除置顶推文</string>
+    <string name="feature_remove_pinned_tweets_title">移除置顶帖</string>
 
     <string name="feature_remove_trends_title">移除趋势</string>
 
@@ -83,7 +87,7 @@
 
     <string name="feature_remove_events_title">移除事件</string>
 
-    <string name="feature_remove_related_tweet_title">移除相关推文</string>
+    <string name="feature_remove_related_tweet_title">移除相关帖</string>
 
     <string name="feature_remove_suggest_who_to_follow_title">移除关注推荐</string>
 
@@ -91,9 +95,12 @@
 
     <string name="feature_remove_community_to_join_title">移除新社群推荐</string>
 
+    <string name="feature_remove_superhero_title">移除通栏广告</string>
+    <string name="feature_remove_superhero_desc">移除探索页顶部的大块横幅广告</string>
+
     <string name="feature_skip_short_link_redirect_title">跳过短链接重定向</string>
 
-    <string name="feature_unpin_ssl_title">解除SSL证书固定</string>
+    <string name="feature_unpin_ssl_title">破解 SSL 证书固定</string>
 
     <string name="feature_clean_url_title">净化链接</string>
 
@@ -102,6 +109,11 @@
 
     <string name="pref_custom_media_download_directory_title">自定义下载位置</string>
 
+    <string name="feature_unlock_local_premium_title">破解本地 Premium 功能</string>
+
+    <string name="pref_custom_app_icon_title">自定义 App 图标</string>
+
+    <string name="pref_undo_tweet_settings_title">撤回帖子设置</string>
 
     <string name="feature_remove_for_you_tab_title">移除为你推荐</string>
 
