@@ -149,4 +149,6 @@
     <string name="feature_force_high_quality_video_playing_title">Force high quality video</string>
 
     <string name="feature_disable_banner_view">Disable banner view</string>
+
+    <string name="feature_disable_sni">Disable SNI</string>
 </resources>
