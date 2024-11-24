@@ -38,7 +38,11 @@
     <string name="download_all">下載全部</string>
     <string name="download">下載</string>
 
-    <string name="promoted_tweet_deleted">已刪除 %1d 個時間線廣告</string>
+    <plurals name="database_deleted_rows">
+        <item quantity="one">已刪除 %1d 行資料</item>
+        <item quantity="other">已刪除 %1d 行資料</item>
+    </plurals>
+    <string name="promoted_tweet_deleted">已刪除 %1d 個廣告貼文</string>
 
     <!-- Sections -->
 
@@ -73,7 +77,7 @@
 
     <string name="feature_remove_sensitive_media_warning_title">移除敏感媒體警告</string>
 
-    <string name="feature_remove_pinned_tweets_title">移除已置頂貼圖</string>
+    <string name="feature_remove_pinned_tweets_title">移除已置頂貼文</string>
 
     <string name="feature_remove_trends_title">移除趨勢</string>
 
@@ -83,7 +87,7 @@
 
     <string name="feature_remove_events_title">移除事件</string>
 
-    <string name="feature_remove_related_tweet_title">移除相關推文</string>
+    <string name="feature_remove_related_tweet_title">移除相關貼文</string>
 
     <string name="feature_remove_suggest_who_to_follow_title">移除推薦關注</string>
 
@@ -91,9 +95,12 @@
 
     <string name="feature_remove_community_to_join_title">移除新社群推薦</string>
 
+    <string name="feature_remove_superhero_title">移除頂部廣告</string>
+    <string name="feature_remove_superhero_desc">移除探索頁頂部的大片橫幅廣告</string>
+
     <string name="feature_skip_short_link_redirect_title">跳過短連結重新導向</string>
 
-    <string name="feature_unpin_ssl_title">取消證書鎖定</string>
+    <string name="feature_unpin_ssl_title">破解 SSL 證書鎖定</string>
 
     <string name="feature_clean_url_title">淨化連結</string>
 
@@ -102,6 +109,11 @@
 
     <string name="pref_custom_media_download_directory_title">自訂媒體下載位置</string>
 
+    <string name="feature_unlock_local_premium_title">破解本機 Premium 功能</string>
+
+    <string name="pref_custom_app_icon_title">自訂程式圖示</string>
+
+    <string name="pref_undo_tweet_settings_title">取消貼文設定</string>
 
     <string name="feature_remove_for_you_tab_title">移除為你推薦</string>
 
@@ -128,7 +140,7 @@
     <string name="feature_disable_auto_scroll_title">禁止自動滾動</string>
     <string name="feature_disable_auto_scroll_desc">禁止時間線重新整理後自動回到最頂</string>
 
-    <string name="feature_force_high_quality_video_playing_title">強制高品質播放</string>
+    <string name="feature_force_high_quality_video_playing_title">強制高畫質播放</string>
 
     <string name="feature_disable_banner_view">禁止顯示橫幅</string>
 </resources>
