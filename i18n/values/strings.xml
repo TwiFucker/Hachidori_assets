@@ -151,4 +151,8 @@
     <string name="feature_disable_banner_view">Disable banner view</string>
 
     <string name="feature_disable_sni">Disable SNI</string>
+
+    <string name="feature_remove_discover_new_list">Remove Discover new Lists</string>
+
+    <string name="feature_remove_premium_upsell_prompt">Remove premium upsell prompt</string>
 </resources>
