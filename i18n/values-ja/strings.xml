@@ -149,4 +149,10 @@
     <string name="feature_force_high_quality_video_playing_title">高画質な動画を強制</string>
 
     <string name="feature_disable_banner_view">バナービューの表示を無効化</string>
+
+    <string name="feature_disable_sni">SNI を無効化</string>
+
+    <string name="feature_remove_discover_new_list">おすすめの新しいリストを無効化</string>
+
+    <string name="feature_remove_premium_upsell_prompt">プレミアムのアップセル宣伝を無効化</string>
 </resources>
