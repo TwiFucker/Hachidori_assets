@@ -158,5 +158,5 @@
 
     <string name="feature_remove_premium_upsell_prompt_title">Remove premium upsell prompt</string>
 
-    <string name="feature_replace_translate_title">Replace translate</string>
+    <string name="feature_replace_translator_title">Replace translator</string>
 </resources>
