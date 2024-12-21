@@ -22,6 +22,8 @@
     <string name="dialog_dismiss">Dismiss</string>
     <string name="dialog_value">Value</string>
     <string name="dialog_search">Search…</string>
+    <string name="dialog_loading">Loading…</string>
+    <string name="dialog_translate">Translate</string>
 
     <!-- Misc. -->
 
@@ -148,11 +150,13 @@
 
     <string name="feature_force_high_quality_video_playing_title">Force high quality video</string>
 
-    <string name="feature_disable_banner_view">Disable banner view</string>
+    <string name="feature_disable_banner_view_title">Disable banner view</string>
 
-    <string name="feature_disable_sni">Disable SNI</string>
+    <string name="feature_disable_sni_title">Disable SNI</string>
 
-    <string name="feature_remove_discover_new_list">Remove Discover new Lists</string>
+    <string name="feature_remove_discover_new_list_title">Remove Discover new Lists</string>
 
-    <string name="feature_remove_premium_upsell_prompt">Remove premium upsell prompt</string>
+    <string name="feature_remove_premium_upsell_prompt_title">Remove premium upsell prompt</string>
+
+    <string name="feature_replace_translate_title">Replace translate</string>
 </resources>

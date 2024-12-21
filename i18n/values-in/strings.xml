@@ -128,5 +128,5 @@
 
     <string name="feature_force_high_quality_video_playing_title">Paksa video berkualitas tinggi</string>
 
-    <string name="feature_disable_banner_view">Nonaktifkan tampilan spanduk</string>
+    <string name="feature_disable_banner_view_title">Nonaktifkan tampilan spanduk</string>
 </resources>

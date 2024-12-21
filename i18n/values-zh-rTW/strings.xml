@@ -142,5 +142,5 @@
 
     <string name="feature_force_high_quality_video_playing_title">強制高畫質播放</string>
 
-    <string name="feature_disable_banner_view">禁止顯示橫幅</string>
+    <string name="feature_disable_banner_view_title">禁止顯示橫幅</string>
 </resources>

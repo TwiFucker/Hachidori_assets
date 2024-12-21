@@ -131,5 +131,5 @@
 
     <string name="feature_force_high_quality_video_playing_title">Buộc video chất lượng cao</string>
 
-    <string name="feature_disable_banner_view">Xoá banner</string>
+    <string name="feature_disable_banner_view_title">Xoá banner</string>
 </resources>
