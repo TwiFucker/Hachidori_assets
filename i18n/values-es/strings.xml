@@ -1,0 +1,157 @@
+<resources>
+    <!-- General -->
+
+    <string name="app_name">Hachidori</string>
+    <string name="author">por Team TwiFucker</string>
+    <string name="loading">cargando…</string>
+
+    <string name="version">%1$s(%2$d)</string>
+    <string name="version_update">%1$s(%2$d) [Nueva versión disponible %3$s(%4$d)]</string>
+
+    <string name="dialog_module_update">Actualizar módulo</string>
+
+    <string name="dialog_yes">Sí</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_save">Guardar</string>
+    <string name="dialog_reset">Restablecer</string>
+    <string name="dialog_dismiss">Cerrar</string>
+    <string name="dialog_value">Valor</string>
+    <string name="dialog_search">Buscar…</string>
+    <string name="dialog_loading">Cargando…</string>
+    <string name="dialog_translate">Traducir</string>
+
+    <!-- Misc. -->
+
+    <string name="pref_translators">Traductor</string>
+    <string name="translators">made2pwn</string>
+
+    <string name="pref_telegram_title">Telegram</string>
+
+    <string name="pref_reset_hook_title">Restablecer Hook</string>
+
+    <string name="pref_reset_config_title">Restablecer configuración</string>
+
+    <string name="dialog_reset_subtitle">¿Estás seguro de que quieres restablecer? La app se reiniciará despues de ello.</string>
+
+    <string name="downloading">Descargando…</string>
+    <string name="download_failed">Descarga fallida</string>
+    <string name="download_link_copied">Link de descarga copiado</string>
+    <string name="download_media">Media %1$d</string>
+    <string name="download_completed">Descarga completada</string>
+    <string name="download_all">Descargar todo</string>
+    <string name="download">Descargar</string>
+
+    <plurals name="database_deleted_rows">
+        <item quantity="one">Se ha eliminado %1d columna de la base de datos</item>
+        <item quantity="other">Se han eliminado %1d columnas de la base de datos</item>
+    </plurals>
+    <string name="promoted_tweet_deleted">Se han eliminado %1d tweets promocionados</string>
+
+    <!-- Sections -->
+
+    <string name="section_version">Versión</string>
+    <string name="section_general">General</string>
+    <string name="section_experimental">Experimental</string>
+    <string name="section_misc">Misc.</string>
+
+    <!-- Version -->
+    <string name="pref_host_version">Versión del anfitrión</string>
+    <string name="pref_module_version">Versión del módulo</string>
+    <string name="pref_framework_name">Nombre del framework</string>
+    <string name="pref_framework_version">Versión del framework</string>
+    <string name="pref_framework_privilege">Privilegio del framework</string>
+
+    <!-- Privilege -->
+    <string name="privilege_root">Root</string>
+    <string name="privilege_container">Contenedor</string>
+    <string name="privilege_app">App</string>
+    <string name="privilege_embedded">Integrado</string>
+    <string name="privilege_unknown">Desconocido</string>
+
+    <!-- Features -->
+
+    <string name="feature_remove_promoted_timeline_tweet_title">Quitar tweets promocionados de la cronología</string>
+
+    <string name="feature_remove_promoted_trend_title">Quitar tendencia promocionada</string>
+
+    <string name="feature_remove_promoted_user_title">Quitar usuarios promocionados</string>
+
+    <string name="feature_remove_recommended_users_title">Quitar usuarios recomendados</string>
+
+    <string name="feature_remove_sensitive_media_warning_title">Quitar advertencia de contenido sensible</string>
+
+    <string name="feature_remove_pinned_tweets_title">Quitar tweets fijados</string>
+
+    <string name="feature_remove_trends_title">Quitar Tendencias</string>
+
+    <string name="feature_remove_threads_title">Quitar hilos</string>
+
+    <string name="feature_remove_video_carousel_title">Quitar videos carrusel</string>
+
+    <string name="feature_remove_events_title">Quitar Eventos</string>
+
+    <string name="feature_remove_related_tweet_title">Quitar Descubre más</string>
+
+    <string name="feature_remove_suggest_who_to_follow_title">Quitar A quién seguir</string>
+
+    <string name="feature_remove_suggest_who_to_subscribe_title">Quitar Creadores para ti</string>
+
+    <string name="feature_remove_community_to_join_title">Quitar Explorar nuevas comunidades</string>
+
+    <string name="feature_remove_superhero_title">Quitar superhéroe</string>
+    <string name="feature_remove_superhero_desc">Esto elimina el banner de promoción grande en la pestaña Explorar</string>
+
+    <string name="feature_skip_short_link_redirect_title">Saltar la redirección de links cortos</string>
+
+    <string name="feature_unpin_ssl_title">Desfijar SSL</string>
+
+    <string name="feature_clean_url_title">Limpiar URL</string>
+
+    <string name="feature_unlock_local_premium_title">Desbloquear premium local</string>
+
+    <string name="pref_custom_app_icon_title">Ícono personalizado de la app</string>
+
+    <string name="pref_undo_tweet_settings_title">Revertir configuración de tweets</string>
+
+    <string name="feature_custom_media_download_title">Activar descarga de multimedia personalizada</string>
+    <string name="feature_custom_media_download_desc">Añadir Descargar en el botón de Compartir</string>
+
+    <string name="pref_custom_media_download_directory_title">Directorio personalizado para descargas de contenido multimedia</string>
+
+    <string name="feature_remove_for_you_tab_title">Quitar pestaña Para ti</string>
+
+    <string name="feature_remove_google_ads_title">Quitar Anuncios de Google</string>
+
+    <string name="feature_remove_navbar_items_title">Quitar elementos de la barra de navegación</string>
+
+    <string name="pref_navbar_items_title">Elementos de la barra de navegación</string>
+    <string name="pref_navbar_items_desc">Selecciona los elementos de la barra de navegación que remover</string>
+
+    <string name="feature_remove_drawer_items_title">Quitar elementos del cajón de navegación</string>
+
+    <string name="pref_drawer_items_title">Elementos del cajón de navegación</string>
+    <string name="pref_drawer_items_desc">Selecciona los elementos del cajón de navegación que remover</string>
+
+    <string name="feature_feature_switches_title">Interruptores de características</string>
+
+    <string name="pref_feature_switches_title">Elementos de los Interruptores de características</string>
+
+    <string name="feature_change_color_title">Cambiar color</string>
+
+    <string name="pref_change_color_title">Selector de color</string>
+
+    <string name="feature_disable_auto_scroll_title">Desactivar el desplazamiento automático de la cronología</string>
+    <string name="feature_disable_auto_scroll_desc">Desactiva el desplazamiento automático hasta el tope de la cronología al actualizarla</string>
+
+    <string name="feature_force_high_quality_video_playing_title">Forzar video de alta calidad</string>
+
+    <string name="feature_disable_banner_view_title">Desactivar vista del banner</string>
+
+    <string name="feature_disable_sni_title">Desactivar SNI</string>
+
+    <string name="feature_remove_discover_new_list_title">Quitar Descubrir nuevas listas</string>
+
+    <string name="feature_remove_premium_upsell_prompt_title">Quitar sugerencia de upsell de premium</string>
+
+    <string name="feature_replace_translator_title">Reemplazar traductor</string>
+</resources>
