@@ -23,6 +23,8 @@
     <string name="dialog_value">値</string>
     <string name="dialog_search">検索…</string>
 
+    <string name="translated_link">%2s により %1s から翻訳</string>
+
     <!-- Misc. -->
 
     <string name="pref_translators">翻訳者</string>
@@ -155,4 +157,6 @@
     <string name="feature_remove_discover_new_list_title">おすすめの新しいリストを無効化</string>
 
     <string name="feature_remove_premium_upsell_prompt_title">プレミアムのアップセル宣伝を無効化</string>
+
+    <string name="feature_replace_translator_title">翻訳エンジンを置換</string>
 </resources>
