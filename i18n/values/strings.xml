@@ -22,8 +22,8 @@
     <string name="dialog_dismiss">Dismiss</string>
     <string name="dialog_value">Value</string>
     <string name="dialog_search">Search…</string>
-    <string name="dialog_loading">Loading…</string>
-    <string name="dialog_translate">Translate</string>
+
+    <string name="translated_link">Translated from %1s by %2s</string>
 
     <!-- Misc. -->
 
