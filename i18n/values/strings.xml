@@ -23,7 +23,7 @@
     <string name="dialog_value">Value</string>
     <string name="dialog_search">Search…</string>
 
-    <string name="translated_link">Translated from %1s by %2s</string>
+    <string name="translated_link">Translated from %1$s by %2$s</string>
 
     <!-- Misc. -->
 
@@ -159,4 +159,8 @@
     <string name="feature_remove_premium_upsell_prompt_title">Remove premium upsell prompt</string>
 
     <string name="feature_replace_translator_title">Replace translator</string>
+
+    <string name="feature_remove_today_news_title">Remove Today\'s News</string>
+
+    <string name="feature_show_poll_results_title">Show poll results</string>
 </resources>
