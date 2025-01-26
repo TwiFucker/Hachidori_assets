@@ -65,9 +65,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">Loại bỏ các phiền toái</string>
-    <string name="feature_remove_misc_desc">Xoá xem thêm video,tweets liên quan/khám phá thêm, những người nên theo dõi</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">Xoá bỏ tweets được tài trợ</string>
 
     <string name="feature_remove_promoted_trend_title">Xoá bỏ trào lưu được tài trợ</string>
@@ -102,8 +99,6 @@
 
     <string name="feature_clean_url_title">Làm sạch URL</string>
 
-    <string name="feature_download_video_title">Kích hoạt tải xuống video</string>
-
     <string name="feature_custom_media_download_title">Kích hoạt tuỳ chọn tải xuống khác cho đa phương tiện</string>
     <string name="feature_custom_media_download_desc">Thêm nút tải xuống vào phần chia sẻ</string>
 
@@ -136,5 +131,4 @@
 
     <string name="feature_force_high_quality_video_playing_title">Buộc video chất lượng cao</string>
 
-    <string name="feature_disable_banner_view">Xoá banner</string>
 </resources>

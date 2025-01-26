@@ -17,8 +17,6 @@
     <string name="dialog_dismiss">Cerrar</string>
     <string name="dialog_value">Valor</string>
     <string name="dialog_search">Buscar…</string>
-    <string name="dialog_loading">Cargando…</string>
-    <string name="dialog_translate">Traducir</string>
 
     <!-- Misc. -->
 
