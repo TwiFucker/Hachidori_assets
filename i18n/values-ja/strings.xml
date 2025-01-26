@@ -23,7 +23,7 @@
     <string name="dialog_value">値</string>
     <string name="dialog_search">検索…</string>
 
-    <string name="translated_link">%2s により %1s から翻訳</string>
+    <string name="translated_link">%2$s により %1$s から翻訳</string>
 
     <!-- Misc. -->
 
