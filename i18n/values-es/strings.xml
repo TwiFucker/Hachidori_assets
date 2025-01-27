@@ -18,10 +18,12 @@
     <string name="dialog_value">Valor</string>
     <string name="dialog_search">Buscar…</string>
 
+    <string name="translated_link">Traducido del %1$s por %2$s</string>
+
     <!-- Misc. -->
 
     <string name="pref_translators">Traductor</string>
-    <string name="translators">made2pwn</string>
+    <string name="translators">twinstarred</string>
 
     <string name="pref_telegram_title">Telegram</string>
 
@@ -33,7 +35,7 @@
 
     <string name="downloading">Descargando…</string>
     <string name="download_failed">Descarga fallida</string>
-    <string name="download_link_copied">Link de descarga copiado</string>
+    <string name="download_link_copied">Enlace de descarga copiado</string>
     <string name="download_media">Media %1$d</string>
     <string name="download_completed">Descarga completada</string>
     <string name="download_all">Descargar todo</string>
@@ -99,7 +101,7 @@
     <string name="feature_remove_superhero_title">Quitar superhéroe</string>
     <string name="feature_remove_superhero_desc">Esto elimina el banner de promoción grande en la pestaña Explorar</string>
 
-    <string name="feature_skip_short_link_redirect_title">Saltar la redirección de links cortos</string>
+    <string name="feature_skip_short_link_redirect_title">Saltar la redirección de enlaces cortos</string>
 
     <string name="feature_unpin_ssl_title">Desfijar SSL</string>
 
@@ -152,4 +154,8 @@
     <string name="feature_remove_premium_upsell_prompt_title">Quitar sugerencia de upsell de premium</string>
 
     <string name="feature_replace_translator_title">Reemplazar traductor</string>
+    
+    <string name="feature_remove_today_news_title">Quitar Noticias de hoy</string>
+    
+    <string name="feature_show_poll_results_title">Mostrar resultados de las encuestas</string>
 </resources>
