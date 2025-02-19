@@ -1,7 +1,7 @@
 <resources>
     <!-- General -->
     <string name="app_name">Hachidori</string>
-    <string name="author">by Team TwiFucker</string>
+    <string name="author">作者：TwiFucker 团队</string>
     <string name="loading">加载中…</string>
 
     <string name="version">%1$s(%2$d)</string>
@@ -17,10 +17,12 @@
     <string name="dialog_value">值</string>
     <string name="dialog_search">搜索…</string>
 
+    <string name="translated_link">由 %2$s 翻译自 %1$s</string>
+    
     <!-- Misc. -->
 
     <string name="pref_translators">译者</string>
-    <string name="translators">JasonKhew96/orz12</string>
+    <string name="translators">帮助我们翻译！</string>
 
     <string name="pref_telegram_title">Telegram</string>
 
@@ -60,10 +62,10 @@
 
     <!-- Privilege -->
     <string name="privilege_root">Root</string>
-    <string name="privilege_container">Container</string>
-    <string name="privilege_app">App</string>
-    <string name="privilege_embedded">Embedded</string>
-    <string name="privilege_unknown">Unknown</string>
+    <string name="privilege_container">容器</string>
+    <string name="privilege_app">应用</string>
+    <string name="privilege_embedded">嵌入</string>
+    <string name="privilege_unknown">未知</string>
 
     <!-- Features -->
 
@@ -143,4 +145,16 @@
     <string name="feature_force_high_quality_video_playing_title">强制以高画质播放</string>
 
     <string name="feature_disable_banner_view_title">禁止显示横幅</string>
+   
+    <string name="feature_disable_sni_title">禁用 SNI</string>
+
+    <string name="feature_remove_discover_new_list_title">移除发现的新列表</string>
+
+    <string name="feature_remove_premium_upsell_prompt_title">移除 Premium 推销提示</string>
+
+    <string name="feature_replace_translator_title">更换翻译器</string>
+
+    <string name="feature_remove_today_news_title">移除今日新闻</string>
+
+    <string name="feature_show_poll_results_title">显示投票结果</string>  
 </resources>
