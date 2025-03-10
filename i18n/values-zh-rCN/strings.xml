@@ -1,5 +1,6 @@
 <resources>
     <!-- General -->
+
     <string name="app_name">Hachidori</string>
     <string name="author">by Team TwiFucker</string>
     <string name="loading">加载中…</string>
@@ -16,6 +17,8 @@
     <string name="dialog_dismiss">关闭</string>
     <string name="dialog_value">值</string>
     <string name="dialog_search">搜索…</string>
+
+    <string name="translated_link">Translated from %1$s by %2$s</string>
 
     <!-- Misc. -->
 
@@ -143,4 +146,16 @@
     <string name="feature_force_high_quality_video_playing_title">强制以高画质播放</string>
 
     <string name="feature_disable_banner_view_title">禁止显示横幅</string>
+
+    <string name="feature_disable_sni_title">关闭 SNI</string>
+
+    <string name="feature_remove_discover_new_list_title">移除发现新列表</string>
+
+    <string name="feature_remove_premium_upsell_prompt_title">移除会员升级提示</string>
+
+    <string name="feature_replace_translator_title">替换翻译器</string>
+
+    <string name="feature_remove_today_news_title">移除今日新闻</string>
+
+    <string name="feature_show_poll_results_title">显示投票结果</string>
 </resources>
